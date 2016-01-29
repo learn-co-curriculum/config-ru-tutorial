@@ -72,4 +72,4 @@ require_relative './hello_rack'
 * [Chris Blogs](http://chneukirchen.org/blog/) - [Introducing Rack](http://chneukirchen.org/blog/archive/2007/02/introducing-rack.html)
 * [Pratik Naik's Blog](http://m.onkey.org/) - [Ruby on Rack #1 - Hello Rack!](http://m.onkey.org/ruby-on-rack-1-hello-rack)
 * [Pratik Naik's Blog](http://m.onkey.org/) - [Ruby on Rack #2 - The Builder](http://m.onkey.org/ruby-on-rack-2-the-builder)
-<a href='https://learn.co/lessons/config-ru-tutorial' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/config-ru-tutorial' title='Config.ru'>Config.ru</a> on Learn.co and start learning to code for free.</p>
